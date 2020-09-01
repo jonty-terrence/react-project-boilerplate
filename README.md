@@ -1,7 +1,9 @@
 # react-project-boilerplate ✌️
 A simple boilerplate for React projects. This repo initialises base dependencies and file structure of a typical starting point.
 
-To start using the template, just fork this repo, add your projects name and get started. 
+This is a template repository, so to start using this template with the same directory structure and files, click the "Use this Template" at the top of the page.
+
+Alternatively, just fork this repo, add your projects name and get started. 
 
 
 This is the structure of the file system:
